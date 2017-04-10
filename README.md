@@ -11,3 +11,13 @@ En cada módulo se experimenta con diferentes formas de analizar redes sociales 
 * Análisis de Influencia: formas basicas de conseguir las influencias en una red
 * NLP: tareas de procesamiento con NLTK
 * Análisis de Sentimiento y Sistemas de Recomendación: realizar análisis de sentimiento y sistemas de recomendación
+
+# Dependencias
+
+tweepy
+matplotlib
+numpy
+scikit-learn
+networkx
+python-louvain
+nltk
